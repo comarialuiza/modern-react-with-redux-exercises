@@ -1,0 +1,1 @@
+Repository where I solve exercises from the course Modern React with Redux.
